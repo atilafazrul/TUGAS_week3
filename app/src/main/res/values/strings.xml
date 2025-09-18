@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LAB_WEEK_03</string>
+    <string name="coffee_list">Coffee List</string>
+
+    <string name="affogato_title">AFFOGATO</string>
+    <string name="affogato_desc">Espresso poured on a vanilla ice cream.</string>
+
+    <string name="americano_title">AMERICANO</string>
+    <string name="americano_desc">Espresso with added hot water.</string>
+
+    <string name="latte_title">CAFFE LATTE</string>
+    <string name="latte_desc">Espresso with steamed milk and a little foam.</string>
+
+    <string name="mocha_title">MOCHA</string>
+    <string name="mocha_desc">Espresso with chocolate syrup and steamed milk.</string>
+
+    <string name="espresso_title">ESPRESSO</string>
+    <string name="espresso_desc">Strong concentrated coffee shot.</string>
+</resources>
